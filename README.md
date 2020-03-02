@@ -1,5 +1,8 @@
-# hyperblog :tw-26a1:
+# hyperblog :)
 Un blog de prueba para el curso de Git y Github de Platzi
 >El curso de Git y Github que me enseña más que lo que me puede enseñar la Universidad.
 
-<p><img src="imagenes/chibi.jpg" width="100%"</p>
+En este curso aprendi:
+* Sobre los comandos de Git .
+* Sobre el flujo de trabajado en Github
+
